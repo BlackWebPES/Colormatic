@@ -4,4 +4,3 @@ load: STARTUP
 version: 1.0.3
 api: 3.0.0
 author: TheDeibo
-description: Adds a customisable color symbol to use instead of `§`. 
